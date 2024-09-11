@@ -1,0 +1,7 @@
+{
+  "explorer.fileNesting.expand": true,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, next-env.d.ts, postcss.config.mjs, tailwind.config.ts, next.config.mjs, .gitignore, tsconfig.json, .eslintrc.json, node_modules, .storybook, components.json, README.md"
+  }
+}
